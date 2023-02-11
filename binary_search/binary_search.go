@@ -22,6 +22,5 @@ func binary_search(nums []int, target int) int {
 }
 
 func main() {
-	list := []int{1, 3, 7, 9, 14, 25}
-	fmt.Println(binary_search(list, 1))
+	// your code
 }
